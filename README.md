@@ -1,4 +1,4 @@
-Chronomancer is a game written in godot ported to the web.
+Chronomancer is a 3d sorcery game written in godot ported to the web.
 
 ### PLAY CHRONOMANCER
 
